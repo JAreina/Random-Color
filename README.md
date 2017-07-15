@@ -1,5 +1,5 @@
 # Random-Color
 
-DEMO : (http://embed.plnkr.co/DWI5wL/)
+DEMO : (https://embed.plnkr.co/L8a4Qv/)
 
 ![Alt text](https://github.com/JAreina/Random-Color/blob/master/randomColor.png)
