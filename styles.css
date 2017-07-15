@@ -1,0 +1,33 @@
+html{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+body{
+       width: 50%;
+       margin:0 auto;
+       background-color:#17202a;
+       font-family: monospace;
+       font-size: 14px;
+       color:#fff;
+    }
+.caja{
+    width:100%;
+    padding:1%;
+    border-radius: 2px 2px;
+    margin-bottom: 2%;
+}
+
+#contador,#contador2{
+    text-align: center;
+    margin-top:5%;
+}
+h6{
+    margin-top:3%;
+    padding:0;
+    border:0;
+    font-size: 4em;
+    text-align: center;
+   
+}
